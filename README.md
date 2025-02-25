@@ -17,5 +17,5 @@ I'm a **Java Developer** passionate about continuous learning and improving my s
 - 🔭 Currently working on: Enhancing application security and performance
 - 🌱 Learning: **Microservices architecture** (based on *Microservices Patterns* by Chris Richardson)  
 - 👯 Looking to collaborate on: Open-source Java projects  
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/rafał-piszko-223455208/) | Email: `piszkorafal[at]gmail[dot]com`  
-- ⚡ Fun fact: I enjoy physical activity as much as debugging code!  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafał-piszko-223455208/) | Email: `piszkorafal[at]gmail[dot]com`  
+- ⚡ Fun fact: When I'm not debugging code, I'm probably at the gym or playing chess.
