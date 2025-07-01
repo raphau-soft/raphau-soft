@@ -9,7 +9,7 @@ I'm a **Java Developer** passionate about continuous learning and improving my s
 ## 🔧 Tech Stack  
 - **Backend:** Java, Spring Boot  
 - **Frontend:** Angular  
-- **DevOps:** Docker, Kubernetes  
+- **DevOps:** Docker, Jenkins  
 - **Messaging:** Apache Kafka, RabbitMQ  
 - **Databases:** PostgreSQL  
 
